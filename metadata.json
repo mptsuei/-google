@@ -1,0 +1,6 @@
+{
+  "name": "Math Whack-a-Mole Blitz",
+  "description": "A fast-paced 3x3 Whack-a-Mole game with a countdown timer and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
